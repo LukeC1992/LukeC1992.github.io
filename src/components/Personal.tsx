@@ -33,7 +33,7 @@ export default function Personal() {
           cursor="pointer"
           marginLeft="$1"
           marginTop="$3"
-          color="$white075"
+          color="$green5"
           opacity={1}
           enterStyle={{ opacity: 0 }}
           hoverStyle={{color: '$green7'}}
@@ -47,7 +47,7 @@ export default function Personal() {
           cursor="pointer"
           marginLeft="$1"
           marginTop="$3"
-          color="$white075"
+          color="$green5"
           opacity={1}
           enterStyle={{ opacity: 0 }}
           hoverStyle={{color: '$green7'}}
@@ -61,7 +61,7 @@ export default function Personal() {
           cursor="pointer"
           marginLeft="$1"
           marginTop="$3"
-          color="$white075"
+          color="$green5"
           opacity={1}
           enterStyle={{ opacity: 0 }}
           hoverStyle={{color: '$green7'}}
@@ -75,7 +75,7 @@ export default function Personal() {
           cursor="pointer"
           marginLeft="$1"
           marginTop="$3"
-          color="$white075"
+          color="$green5"
           opacity={1}
           enterStyle={{ opacity: 0 }}
           hoverStyle={{color: '$green7'}}
@@ -89,7 +89,7 @@ export default function Personal() {
           cursor="pointer"
           marginLeft="$1"
           marginTop="$3"
-          color="$white075"
+          color="$green5"
           opacity={1}
           enterStyle={{ opacity: 0 }}
           hoverStyle={{color: '$green7'}}

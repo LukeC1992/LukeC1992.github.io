@@ -27,12 +27,11 @@ export default function Home() {
         alignItems="flex-start"
         marginRight="$5"
       >
-        <View cursor="none" marginBottom="$3">
+        <View marginBottom="$3">
           <Text
             fontFamily={"Special Elite"}
             color="$white11"
             paddingLeft={"2em"}
-            cursor="none"
             animation="slow"
             hoverStyle={{ color: "$white1" }}
           >
@@ -42,19 +41,17 @@ export default function Home() {
             fontFamily={"Special Elite"}
             color="$white11"
             paddingLeft={"2em"}
-            cursor="none"
             animation="slow"
             hoverStyle={{ color: "$white1" }}
           >
             and hard work.
           </Text>
         </View>
-        <View cursor="none" marginBottom="$3" marginTop="$-0.5">
+        <View marginBottom="$3" marginTop="$-0.5">
           <Text
             fontFamily={"Special Elite"}
             color="$white11"
             paddingLeft={"3em"}
-            cursor="none"
             animation="slow"
             hoverStyle={{ color: "$white1" }}
           >
@@ -64,19 +61,17 @@ export default function Home() {
             fontFamily={"Special Elite"}
             color="$white11"
             paddingLeft={"3em"}
-            cursor="none"
             animation="slow"
             hoverStyle={{ color: "$white1" }}
           >
             for creativity.
           </Text>
         </View>
-        <View cursor="none" marginBottom="$3" marginTop="$-0.5">
+        <View marginBottom="$3" marginTop="$-0.5">
           <Text
             fontFamily={"Special Elite"}
             color="$white11"
             paddingLeft={"4em"}
-            cursor="none"
             animation="slow"
             hoverStyle={{ color: "$white1" }}
           >
@@ -86,19 +81,17 @@ export default function Home() {
             fontFamily={"Special Elite"}
             color="$white11"
             paddingLeft={"4em"}
-            cursor="none"
             animation="slow"
             hoverStyle={{ color: "$white1" }}
           >
             and others.
           </Text>
         </View>
-        <View cursor="none" marginBottom="$3" marginTop="$-0.5">
+        <View marginBottom="$3" marginTop="$-0.5">
           <Text
             fontFamily={"Special Elite"}
             color="$white11"
             paddingLeft={"5em"}
-            cursor="none"
             animation="slow"
             hoverStyle={{ color: "$white1" }}
           >
@@ -108,7 +101,6 @@ export default function Home() {
             fontFamily={"Special Elite"}
             color="$white11"
             paddingLeft={"5em"}
-            cursor="none"
             animation="slow"
             hoverStyle={{ color: "$white1" }}
           >
