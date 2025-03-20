@@ -174,8 +174,6 @@ export default function Professional() {
                 marginBottom="$2"
                 fontFamily={"Special Elite"}
               >
-                HTML + CSS
-                <br />
                 Typescript
                 <br />
                 Javascript
@@ -184,13 +182,15 @@ export default function Professional() {
                 <br />
                 React
                 <br />
-                Tanstack
+                Redux + RTK
                 <br />
                 React-native
                 <br />
                 Expo
                 <br />
                 Tamagui
+                <br />
+                Tanstack
                 <br />
                 SQL
                 <br />
